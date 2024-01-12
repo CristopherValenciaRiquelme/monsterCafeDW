@@ -1,0 +1,30 @@
+.imgLogo{
+    width: 150px;
+}
+
+.carousel{
+    width: 30vw;
+    align-items: center;
+}
+
+.encabezado {
+    background-color: hsl(52, 75%, 80%);
+    border-top: 20px solid hsl(33, 75%, 46%);
+}
+
+
+/* Sucursales */
+
+.sucursales{
+    background-color:hsl(33, 75%, 46%) ;
+    color: hsl(52, 75%, 80%);
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 17px;
+
+}
+
+.sucursales h2{
+    font-size: 3rem;
+}
